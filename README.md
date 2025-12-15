@@ -1,7 +1,7 @@
 # 🔥 AtlasTools V1.0
 
 <p align="center">
-  <img src="assets/IMG_20251215_214350_064.jpg" alt="AtlasTools" width="300">
+  <img src="assets/logo.png" alt="AtlasTools" width="300">
   <br>
   <strong>All-in-One Security Toolkit for Termux & Linux</strong>
 </p>
@@ -138,35 +138,6 @@ sudo apt update && sudo apt install python3 python3-pip git -y && git clone http
 
 ---
 
-## 📸 Tool Preview
-
-### **Main Menu:**
-```
-     █████╗ ████████╗██╗      █████╗ ███████╗
-    ██╔══██╗╚══██╔══╝██║     ██╔══██╗██╔════╝
-    ███████║   ██║   ██║     ███████║███████╗
-    ██╔══██║   ██║   ██║     ██╔══██║╚════██║
-    ██║  ██║   ██║   ███████╗██║  ██║███████║
-    ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝
-
-════════════════════════════════════════════════
-║ Version:      V1.0                           ║
-║ Developer:    XNoctra                        ║
-║ Community:    t.me/Atlas4Sec                 ║
-════════════════════════════════════════════════
-
-[1] Recon Basic          [8] Text Tools
-[2] Hash Hunter          [9] Wordlist Forge
-[3] Banner Scan         [10] ASCII Art Tools
-[4] Leak Checker        [11] OSINT Lite
-[5] Encode Master       [12] Environment Scanner
-[6] Port Scan Lite      [13] Simple Cryptography
-[7] Link Inspector      [14] Log Reader
-                       [15] Exit
-```
-
----
-
 ## ⚠️ Legal & Ethics
 
 **Educational Use Only!**
@@ -193,7 +164,7 @@ sudo apt update && sudo apt install python3 python3-pip git -y && git clone http
 
 **Developer:** XNoctra  
 **Version:** 1.0  
-**Last Update:** December 2024
+**Last Update:** December 2025
 
 ---
 
