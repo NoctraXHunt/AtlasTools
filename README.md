@@ -54,8 +54,8 @@ pkg update && pkg upgrade
 pkg install python python-pip git
 git clone https://github.com/NoctraXHunt/AtlasTools
 cd AtlasTools
-chmod +x AtlasTools.py
-python3 AtlasTools.py
+chmod +x atlastools.py
+python3 atlastools.py
 ```
 
 ### **For Linux/Debian/Ubuntu:**
@@ -64,17 +64,17 @@ sudo apt update
 sudo apt install python3 python3-pip git
 git clone https://github.com/NoctraXHunt/AtlasTools
 cd AtlasTools
-chmod +x AtlasTools.py
-python3 AtlasTools.py
+chmod +x atlastools.py
+python3 atlastools.py
 ```
 
 ### **One-Command Install:**
 ```bash
 # Termux
-pkg update && pkg upgrade -y && pkg install python python-pip git -y && git clone https://github.com/NoctraXHunt/AtlasTools && cd AtlasTools && chmod +x AtlasTools.py && python3 AtlasTools.py
+pkg update && pkg upgrade -y && pkg install python python-pip git -y && git clone https://github.com/NoctraXHunt/AtlasTools && cd AtlasTools && chmod +x atlastools.py && python3 atlasyools.py
 
 # Linux
-sudo apt update && sudo apt install python3 python3-pip git -y && git clone https://github.com/NoctraXHunt/AtlasTools && cd AtlasTools && chmod +x AtlasTools.py && python3 AtlasTools.py
+sudo apt update && sudo apt install python3 python3-pip git -y && git clone https://github.com/NoctraXHunt/AtlasTools && cd AtlasTools && chmod +x atlastools.py && python3 atlastools.py
 ```
 
 ---
