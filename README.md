@@ -1,7 +1,7 @@
 # 🔥 AtlasTools V1.0
 
 <p align="center">
-  <img src="assets/logo.png" alt="AtlasTools" width="300">
+  <img src="assets/IMG_20251215_214350_064.jpg" alt="AtlasTools" width="300">
   <br>
   <strong>All-in-One Security Toolkit for Termux & Linux</strong>
 </p>
